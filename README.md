@@ -134,8 +134,5 @@ streamlit run appwithsummarizer.py
 
 Pull Request و Issue خوش‌آمد است. لطفاً قبل از ارسال تغییرات بزرگ، یک Issue باز کنید.
 
-## 📄 مجوز
-
-این پروژه تحت مجوز MIT منتشر می‌شود. (فایل `LICENSE` را به مخزن اضافه کنید.)
 
 </div>
